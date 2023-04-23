@@ -33,10 +33,10 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 - [Project 2 Description]: This project aims to [provide a brief overview of the project, its goals, and the techniques you used].
 - **Technologies Used:** R, Tidyverse, ggplot2, Random Forest
 
-### 3. [Project Name 3](https://github.com/yourusername/project3)
+### 3. [AI-Powered Tic-Tac-Toe](https://github.com/Alexey3250/ai50-Tic-Tac-Toe)
 
-- [Project 3 Description]: This project explores [provide a brief overview of the project, its goals, and the techniques you used].
-- **Technologies Used:** Python, TensorFlow, Keras, NumPy
+- [Project 3 Description]: This project involves developing an AI-powered Tic-Tac-Toe game using adversarial search and the Minimax algorithm for optimal decision-making. The game, created for the CS50-AI course, employs techniques such as Alpha-Beta pruning to enhance efficiency.
+- **Technologies Used:** Python, Minimax Algorithm, Alpha-Beta Pruning
 
 _For more projects, please visit my [GitHub profile](https://github.com/yourusername)._
 
