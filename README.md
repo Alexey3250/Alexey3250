@@ -23,7 +23,7 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 
 ## Projects 💼
 
-### 1. [Recommendation system API](https://github.com/yourusername/project1)
+### 1. [Recommendation system API](https://github.com/Alexey3250/Recommender_API)
 
 - This project focuses on feature preparation, gradient-boost algorithm training and creating an API that would output reccomendations in Json format.
 - **Technologies Used:** Python, Pandas, Catboost, FastAPI
