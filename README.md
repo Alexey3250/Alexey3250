@@ -23,12 +23,12 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 
 ## Projects 💼
 
-### 1. [Project Name 1](https://github.com/yourusername/project1)
+### 1. [Recommendation system API](https://github.com/yourusername/project1)
 
 - [Project 1 Description]: This project focuses on [provide a brief overview of the project, its goals, and the techniques you used].
 - **Technologies Used:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-### 2. [Project Name 2](https://github.com/yourusername/project2)
+### 2. [GPT-powered whatsup Dubai real estate legal advisor](https://github.com/Alexey3250/Legal-Advisor)
 
 - [Project 2 Description]: This project aims to [provide a brief overview of the project, its goals, and the techniques you used].
 - **Technologies Used:** R, Tidyverse, ggplot2, Random Forest
