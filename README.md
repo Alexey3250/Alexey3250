@@ -40,6 +40,9 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 
 _For more projects, please visit my [GitHub profile](https://github.com/yourusername)._
 
+### 4. 6 Degrees of Bacon
+- CS50-AI Project0-Degrees is the first assignment of CS50 AI, where the task is to implement an algorithm to find the shortest path between two actors without Kevin Bacon.
+
 ## Education 🎓
 
 - Bachelor's Degree, Business/Managerial Economics, Faculty of Business and Economics, Mendel University in Brno, 2012 - 2015
