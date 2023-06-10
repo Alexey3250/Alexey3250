@@ -43,6 +43,9 @@ _For more projects, please visit my [GitHub profile](https://github.com/youruser
 ### 4. [6 Degrees of Bacon](https://github.com/Alexey3250/ai50)
 - CS50-AI Project0-Degrees is the first assignment of CS50 AI, where the task is to implement an algorithm to find the shortest path between two actors without Kevin Bacon.
 
+### 5. [Knights and Knaves Puzzle Solver](https://github.com/Alexey3250/Knights)
+- This project is a Python-based AI solver for the logical "Knights and Knaves" puzzles using propositional logic and model checking.
+
 ## Education 🎓
 
 - Bachelor's Degree, Business/Managerial Economics, Faculty of Business and Economics, Mendel University in Brno, 2012 - 2015
