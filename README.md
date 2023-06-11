@@ -36,9 +36,7 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 ### 3. [AI-Powered Tic-Tac-Toe](https://github.com/Alexey3250/ai50-Tic-Tac-Toe)
 
 - [Project 3 Description]: This project involves developing an AI-powered Tic-Tac-Toe game using adversarial search and the Minimax algorithm for optimal decision-making. The game, created for the CS50-AI course, employs techniques such as Alpha-Beta pruning to enhance efficiency.
-- **Technologies Used:** Python, Minimax Algorithm, Alpha-Beta Pruning
-
-_For more projects, please visit my [GitHub profile](https://github.com/yourusername)._
+- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) , Minimax Algorithm, Alpha-Beta Pruning
 
 ### 4. [6 Degrees of Bacon](https://github.com/Alexey3250/ai50)
 - CS50-AI Project0-Degrees is the first assignment of CS50 AI, where the task is to implement an algorithm to find the shortest path between two actors without Kevin Bacon.
