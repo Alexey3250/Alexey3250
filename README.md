@@ -30,7 +30,7 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 
 ### 2. [GPT-powered whatsup Dubai real estate legal advisor](https://github.com/Alexey3250/Legal-Advisor)
 
-- [Project 2 Description]: This project aims to [provide a brief overview of the project, its goals, and the techniques you used].
+- This project aims to [provide a brief overview of the project, its goals, and the techniques you used].
 - **Technologies Used:** R, Tidyverse, ggplot2, Random Forest
 
 ### 3. [AI-Powered Tic-Tac-Toe](https://github.com/Alexey3250/ai50-Tic-Tac-Toe)
@@ -45,6 +45,13 @@ _For more projects, please visit my [GitHub profile](https://github.com/youruser
 
 ### 5. [Knights and Knaves Puzzle Solver](https://github.com/Alexey3250/Knights)
 - This project is a Python-based AI solver for the logical "Knights and Knaves" puzzles using propositional logic and model checking.
+
+### 6. [Minesweeper AI Solver](https://github.com/Alexey3250/Minesweeper)
+
+- This project presents an AI agent capable of playing the Minesweeper game intelligently. Developed as part of the CS50-AI course, the agent applies propositional logic to make safe moves and make inferences, reducing the chances of hitting a mine. When no safe move is discernable, the agent makes a random move. This project is a demonstration of the application of AI knowledge representation and reasoning in game playing.
+
+- **Technologies Used:** Python, Propositional Logic, Knowledge Representation 
+   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
 ## Education 🎓
 
