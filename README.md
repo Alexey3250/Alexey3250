@@ -50,8 +50,7 @@ _For more projects, please visit my [GitHub profile](https://github.com/youruser
 
 - This project presents an AI agent capable of playing the Minesweeper game intelligently. Developed as part of the CS50-AI course, the agent applies propositional logic to make safe moves and make inferences, reducing the chances of hitting a mine. When no safe move is discernable, the agent makes a random move. This project is a demonstration of the application of AI knowledge representation and reasoning in game playing.
 
-- **Technologies Used:** Python, Propositional Logic, Knowledge Representation 
-   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) , Propositional Logic, Knowledge Representation 
 
 ## Education 🎓
 
