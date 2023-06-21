@@ -21,34 +21,56 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 - **Version Control:** Git & GitHub
 - **Other Tools:** Jupyter Notebook, Tableau, Microsoft Excel
 
-## Projects 💼
+## Pet Projects
 
-### 1. [Recommendation system API](https://github.com/Alexey3250/Recommender_API)
+---
 
-- This project focuses on feature preparation, gradient-boost algorithm training and creating an API that would output reccomendations in Json format.
-- **Technologies Used:** Python, Pandas, Catboost, FastAPI
+### [Recommendation system API](https://github.com/Alexey3250/Recommender_API)
+- This project focuses on feature preparation, gradient-boost algorithm training and creating an API that would output recommendations in Json format.
+- Tools & Technologies: `Python` `Jupyter` `Pandas` `Catboost` `FastAPI` `SQLAlchemy`
 
-### 2. [GPT-powered whatsup Dubai real estate legal advisor](https://github.com/Alexey3250/Legal-Advisor)
+---
 
-- This project aims to [provide a brief overview of the project, its goals, and the techniques you used].
-- **Technologies Used:** R, Tidyverse, ggplot2, Random Forest
+### [GPT-powered whatsup Dubai real estate legal advisor](https://github.com/Alexey3250/Legal-Advisor)
+- This project is using GPT-3.5 API, reads the PDF file with laws, breaks it down into vettorized chunks and fed to the GPT. The application is connected to the whatsup chat bot API where user is able to have a chat with the bot that have the laws in his memory.
+- Tools & Technologies: `Python` `Flask` `twilio` `OpenAI API`
 
-### 3. [AI-Powered Tic-Tac-Toe](https://github.com/Alexey3250/ai50-Tic-Tac-Toe)
+---
 
-- [Project 3 Description]: This project involves developing an AI-powered Tic-Tac-Toe game using adversarial search and the Minimax algorithm for optimal decision-making. The game, created for the CS50-AI course, employs techniques such as Alpha-Beta pruning to enhance efficiency.
-- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) , Minimax Algorithm, Alpha-Beta Pruning
+### [AI-Powered Tic-Tac-Toe](https://github.com/Alexey3250/ai50-Tic-Tac-Toe)
+- This project involves developing an AI-powered Tic-Tac-Toe game using adversarial search and the Minimax algorithm for optimal decision-making. The game, created for the CS50-AI course, employs techniques such as Alpha-Beta pruning to enhance efficiency.
+- Tools & Technologies: `Python` `Minimax Algorithm` `Alpha-Beta Pruning`
 
-### 4. [6 Degrees of Bacon](https://github.com/Alexey3250/ai50)
+---
+
+### [6 Degrees of Bacon](https://github.com/Alexey3250/ai50)
 - CS50-AI Project0-Degrees is the first assignment of CS50 AI, where the task is to implement an algorithm to find the shortest path between two actors without Kevin Bacon.
+- Tools & Technologies: `Python` `Minimax Algorithm` `Alpha-Beta Pruning`
 
-### 5. [Knights and Knaves Puzzle Solver](https://github.com/Alexey3250/Knights)
+---
+
+### [Knights and Knaves Puzzle Solver](https://github.com/Alexey3250/Knights)
 - This project is a Python-based AI solver for the logical "Knights and Knaves" puzzles using propositional logic and model checking.
+- Tools & Technologies: `Python` `Data Structures` `Search Algorithms` `File I/O` `Exception Handling`
 
-### 6. [Minesweeper AI Solver](https://github.com/Alexey3250/Minesweeper)
+---
 
+### [Minesweeper AI Solver](https://github.com/Alexey3250/Minesweeper)
 - This project presents an AI agent capable of playing the Minesweeper game intelligently. Developed as part of the CS50-AI course, the agent applies propositional logic to make safe moves and make inferences, reducing the chances of hitting a mine. When no safe move is discernable, the agent makes a random move. This project is a demonstration of the application of AI knowledge representation and reasoning in game playing.
+- Tools & Technologies: `Python` `Propositional Logic` `Knowledge Representation`
 
-- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) , Propositional Logic, Knowledge Representation 
+---
+
+### [Global Covid Deaths Dashboard](https://public.tableau.com/app/profile/alexey.efimik/viz/GlobalCovidDeathsDashboard/Dashboard1)
+- This is a dashboard I have created to present the history of life loss due to COVID-19 across the world. It includes predictive modeling using Tableau and data management using Microsoft SQL Server.
+- Tools & Technologies: `Tableau` `Microsoft SQL Server` `Data Visualization` `Predictive Modeling` `Data Management` `Data Analysis` `Data Cleaning`
+
+---
+
+### [Emirates Journey Dashboard](https://i.imgur.com/FfinEOd.png)
+- This is a dashboard I created to display the journey of a cabin crew member from joining to resignation. It involved data cleaning, management, visualization using Tableau, and some design aspects were handled with Photoshop.
+- Tools & Technologies: `Tableau` `Excel` `SQL` `Data Visualization` `Data Cleaning` `Data Management` `Photoshop`
+
 
 ## Education 🎓
 
