@@ -59,6 +59,8 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 - This is a dashboard I created to display the journey of a cabin crew member from joining to resigning. It involved data cleaning, management, and visualization using Tableau, and some design aspects were handled with Photoshop.
 - Tools & Technologies: `Tableau` `Excel` `SQL` `Data Visualization` `Data Cleaning` `Data Management` `Photoshop`
 
+---
+
 ### [Web Scraping, Text Processing, and Question Answering](https://github.com/Alexey3250/Bulgarian-Spider)
 - This project demonstrates the extraction of comments from a website using web scraping techniques, saving the comments in text and PDF formats, and the implementation of text processing to split the text into smaller chunks. It further uses OpenAI's DocumentSearch for finding relevant documents to a query and answers the query using OpenAI's Question-Answering chain.
 - Tools & Technologies: `Python` `requests` `beautifulsoup4` `fpdf` `OpenAI` `faiss-cpu` `Web Scraping` `Text Processing` `Document Search` `Question Answering`
