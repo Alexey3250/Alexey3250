@@ -8,18 +8,6 @@ Alexey Efimik - [a.efimik@gmail.com](mailto:a.efimik@gmail.com) - [LinkedIn](htt
 
 Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist. This GitHub repository serves as my portfolio, showcasing my skills, projects, and passion for data science. I'm always eager to learn, grow, and contribute to the data science community. I'm currently looking for a Junior Data Scientist position where I can apply my skills, expand my knowledge, and make a positive impact.
 
-## Skills 📚
-
-- **Programming Languages:** Python, R, SQL
-- **Web Development & APIs:** Flask, FastAPI, OpenAI API
-- **Data Manipulation & Analysis:** Pandas, NumPy, Dplyr, Tidyverse
-- **Data Visualization:** Matplotlib, Seaborn, ggplot2, Plotly, Power BI
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost
-- **Statistics & Mathematics:** Descriptive & Inferential Statistics, Linear Algebra, Calculus
-- **Big Data Technologies:** Hadoop, Spark, Hive
-- **Cloud Computing:** AWS, Google Cloud Platform, Azure
-- **Version Control:** Git & GitHub
-- **Other Tools:** Jupyter Notebook, Tableau, Microsoft Excel
 
 ## Pet Projects
 
