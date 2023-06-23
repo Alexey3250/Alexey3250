@@ -26,13 +26,13 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 ---
 
 ### [Recommendation system API](https://github.com/Alexey3250/Recommender_API)
-- This project focuses on feature preparation, gradient-boost algorithm training and creating an API that would output recommendations in Json format.
+- This project focuses on feature preparation, gradient-boost algorithm training, and creating an API that would output recommendations in JSON format.
 - Tools & Technologies: `Python` `Jupyter` `Pandas` `Catboost` `FastAPI` `SQLAlchemy`
 
 ---
 
 ### [GPT-powered whatsup Dubai real estate legal advisor](https://github.com/Alexey3250/Legal-Advisor)
-- This project is using GPT-3.5 API, reads the PDF file with laws, breaks it down into vettorized chunks and fed to the GPT. The application is connected to the whatsup chat bot API where user is able to have a chat with the bot that have the laws in his memory.
+- This project is using GPT-3.5 API, reads the PDF file with laws, breaks it down into vectorized chunks and fed to the GPT. The application is connected to the whatsup chatbot API where the user is able to have a chat with the bot that have the laws in his memory.
 - Tools & Technologies: `Python` `Flask` `twilio` `OpenAI API`
 
 ---
@@ -62,15 +62,18 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 ---
 
 ### [Global Covid Deaths Dashboard](https://public.tableau.com/app/profile/alexey.efimik/viz/GlobalCovidDeathsDashboard/Dashboard1)
-- This is a dashboard I have created to present the history of life loss due to COVID-19 across the world. It includes predictive modeling using Tableau and data management using Microsoft SQL Server.
+- This is a dashboard I have created to present the history of life lost due to COVID-19 across the world. It includes predictive modeling using Tableau and data management using Microsoft SQL Server.
 - Tools & Technologies: `Tableau` `Microsoft SQL Server` `Data Visualization` `Predictive Modeling` `Data Management` `Data Analysis` `Data Cleaning`
 
 ---
 
 ### [Emirates Journey Dashboard](https://i.imgur.com/FfinEOd.png)
-- This is a dashboard I created to display the journey of a cabin crew member from joining to resignation. It involved data cleaning, management, visualization using Tableau, and some design aspects were handled with Photoshop.
+- This is a dashboard I created to display the journey of a cabin crew member from joining to resigning. It involved data cleaning, management, and visualization using Tableau, and some design aspects were handled with Photoshop.
 - Tools & Technologies: `Tableau` `Excel` `SQL` `Data Visualization` `Data Cleaning` `Data Management` `Photoshop`
 
+### [Web Scraping, Text Processing, and Question Answering](https://github.com/Alexey3250/Bulgarian-Spider)
+- This project demonstrates the extraction of comments from a website using web scraping techniques, saving the comments in text and PDF formats, and the implementation of text processing to split the text into smaller chunks. It further uses OpenAI's DocumentSearch for finding relevant documents to a query and answers the query using OpenAI's Question-Answering chain.
+- Tools & Technologies: `Python` `requests` `beautifulsoup4` `fpdf` `OpenAI` `faiss-cpu` `Web Scraping` `Text Processing` `Document Search` `Question Answering`
 
 ## Education 🎓
 
