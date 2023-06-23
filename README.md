@@ -81,10 +81,8 @@ Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist
 
 ## Certifications 📜
 
-- [Google Data Analyst Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/N436HAQBRVZ6), Coursera, [Year]
-- [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/linked_in_profile), Microsoft, [Year]
-- [Harvard CS50: Introduction to Computer Science](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter), Harvard University, [Year]
+- [Google Data Analyst Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/N436HAQBRVZ6), Google
+- [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/linked_in_profile), Microsoft
+- [Harvard CS50: Introduction to Computer Science](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter), Harvard University
 
-## Experience 🏢
 
-- [Job Title], [Company Name
