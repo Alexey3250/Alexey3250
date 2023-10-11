@@ -1,12 +1,16 @@
-# My Portfolio
+# Alexey Efimik - Junior Data Scientist
 
-Alexey Efimik - [a.efimik@gmail.com](mailto:a.efimik@gmail.com) - [LinkedIn](https://www.linkedin.com/in/efimik/) - [WhatsApp](https://wa.me/971527846185) - [Telegram](https://t.me/yourtelegramusername)
+![Banner](https://media.licdn.com/dms/image/C4D16AQHqWLrZo1VHpg/profile-displaybackgroundimage-shrink_200_800/0/1617146149117?e=2147483647&v=beta&t=kbyVuClehGu-ZGcl7C31-zJjP1lf1swKiyuzF3Gc_4U)
 
-<img src="https://media.licdn.com/dms/image/C4D16AQHqWLrZo1VHpg/profile-displaybackgroundimage-shrink_200_800/0/1617146149117?e=2147483647&v=beta&t=kbyVuClehGu-ZGcl7C31-zJjP1lf1swKiyuzF3Gc_4U" alt="banner" width="100%"/>
+---
 
-## Welcome 👋
+**Contact Information:**  
+📧 [a.efimik@gmail.com](mailto:a.efimik@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/efimik/)  
+📱 [WhatsApp](https://wa.me/971527846185)  
+📱 [Telegram](https://t.me/yourtelegramusername)
 
-Hello there! My name is Alexey Efimik, and I'm an aspiring Junior Data Scientist. This GitHub repository serves as my portfolio, showcasing my skills, projects, and passion for data science. I'm always eager to learn, grow, and contribute to the data science community. I'm currently looking for a Junior Data Scientist position where I can apply my skills, expand my knowledge, and make a positive impact.
+---
 
 
 ## Pet Projects
