@@ -99,10 +99,25 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 
 ## Certifications 📜
 
-- [Google Data Analyst Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/N436HAQBRVZ6), Google
-- [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/linked_in_profile), Microsoft
-- [Harvard CS50: Introduction to Computer Science](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter), Harvard University
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a4c3274d-286a-4612-86cd-2024f9615766" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Certifications
+
+- **Google Data Analyst Certificate**  
+  ![Google Data Analyst Certificate](https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)  
+  [View Certificate](https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url)
+
+- **Microsoft Azure Data Scientist Associate**  
+  ![Microsoft Azure Data Scientist Associate](https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)  
+  [View Certificate](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url)
+
+- **Harvard CS50: Introduction to Computer Science**  
+  ![Harvard CS50](https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png)  
+  [View Certificate](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter)
+
+- **Data Science Methodology (IBM)**  
+  ![Data Science Methodology](https://images.credly.com/size/680x680/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)  
+  [View Certificate](https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url)
+
+
 ### Not related skills & hobbies
 
 - Seniour Business Analytics experience 
