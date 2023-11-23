@@ -2,7 +2,7 @@
 
 I'm a Data Scientist specializing in building and deploying recommendation systems and custom GPT bots. My work focuses on transforming data into actionable insights and innovative solutions.
 
-![Banner]([https://media.licdn.com/dms/image/C4D16AQHqWLrZo1VHpg/profile-displaybackgroundimage-shrink_200_800/0/1617146149117?e=2147483647&v=beta&t=kbyVuClehGu-ZGcl7C31-zJjP1lf1swKiyuzF3Gc_4U](https://media.discordapp.net/attachments/1004748557477224498/1177259375736410192/mad3250_A_data_scientist_is_sitting_on_a_big_desk_in_front_of_3_ceb8d395-bcd5-4741-ab0a-3719c8a64c66.png?ex=6571db3b&is=655f663b&hm=079be68668ce9fabad2abee0fc97a73c9d7fa1cb3a9006df5c89bd9c89273451&=&format=webp&width=1440&height=484))
+![Banner](https://i.imgur.com/SnzwjPH.jpg)
 
 ---
 
