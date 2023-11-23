@@ -4,6 +4,9 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 
 <img src="https://i.imgur.com/SnzwjPH.jpg">
 
+## Currently working on:
+- Application of Machine learning and AI in Drug Discovery
+- Custom GPT integration in a Next.js project
 ---
 
 **Contact Information:**  
