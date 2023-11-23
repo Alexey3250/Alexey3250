@@ -17,14 +17,14 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 
 <h3 align="left">🛠 Language and Tools:</h3>
 
-| Programming Languages | Machine Learning | Deployment | Databases | Visualization | Chemoinformatics | Others       |
-|-----------------------|------------------|------------|-----------|---------------|------------------|--------------|
-| Python                | PyTorch          | Docker     | SQL       | Matplotlib    | RdKit            | Modjourney   |
-|                       | TensorFlow       | Railway    | MongoDB   | Seaborn       | Chemcrow         | Custom GPTs  |
-|                       | Scikit-learn     | Heroku     |           |               |                  |              |
-|                       | CatBoost         |            |           |               |                  |              |
-|                       | Numpy            |            |           |               |                  |              |
-|                       | Pandas           |            |           |               |                  |              |
+| Programming Languages | Machine Learning | Deployment  | Databases | Visualization | Chemoinformatics | Others       |
+|-----------------------|------------------|-------------|-----------|---------------|------------------|--------------|
+| Python                | PyTorch          | Docker      | SQL       | Matplotlib    | RdKit            | Modjourney   |
+|                       | TensorFlow       | Railway     | MongoDB   | Seaborn       | Chemcrow         | Custom GPTs  |
+|                       | Scikit-learn     | Heroku      |           |               |                  |              |
+|                       | CatBoost         |             |           |               |                  |              |
+|                       | Numpy            | A/B Testing |           |               |                  |              |
+|                       | Pandas           |             |           |               |                  |              |
 
 
 
