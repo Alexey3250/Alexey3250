@@ -111,7 +111,7 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 
 - **Harvard CS50 + CS50 AI: Professional Certificate in Computer Science for Artificial Intelligence**  
   <a href="https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter">
-    <img src="https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png" width="100px"  alt="Harvard CS50"/>
+    <img src="https://i.imgur.com/ZanYQxg.png" width="100px"  alt="Harvard CS50"/>
   </a>
 
 - **Data Science Methodology (IBM)**  
