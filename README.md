@@ -13,14 +13,16 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 📱 [Telegram](https://t.me/yourtelegramusername)
 
 <h3 align="left">🛠 Language and Tools:</h3>
-| Programming Languages | Machine Learning | Deployment      | Databases | Visualization | Chemoinformatics | Others        |
-|-----------------------|------------------|-----------------|-----------|---------------|------------------|---------------|
-| Python                | PyTorch          | Flask           | SQL       | Matplotlib    | RdKit            | Modjourney    |
-|                       | TensorFlow       | FastAPI         | MongoDB   | Seaborn       | Chemcrow         | Custom GPTs   |
-|                       | Scikit-learn     | Docker          |           |               |                  |               |
-|                       | CatBoost         | Railway         |           |               |                  |               |
-|                       | Numpy            | Heroku          |           |               |                  |               |
-|                       | Pandas           |                 |           |               |                  |               |
+
+| Programming Languages | Machine Learning | Deployment | Databases | Visualization | Chemoinformatics | Others       |
+|-----------------------|------------------|------------|-----------|---------------|------------------|--------------|
+| Python                | PyTorch          | Docker     | SQL       | Matplotlib    | RdKit            | Modjourney   |
+|                       | TensorFlow       | Railway    | MongoDB   | Seaborn       | Chemcrow         | Custom GPTs  |
+|                       | Scikit-learn     | Heroku     |           |               |                  |              |
+|                       | CatBoost         |            |           |               |                  |              |
+|                       | Numpy            |            |           |               |                  |              |
+|                       | Pandas           |            |           |               |                  |              |
+
 
 
 
