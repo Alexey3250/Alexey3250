@@ -2,7 +2,7 @@
 
 I'm a Data Scientist specializing in building and deploying recommendation systems and custom GPT bots. My work focuses on transforming data into actionable insights and innovative solutions.
 
-![Banner](https://i.imgur.com/SnzwjPH.jpg)
+<img src="https://i.imgur.com/SnzwjPH.jpg">
 
 ---
 
