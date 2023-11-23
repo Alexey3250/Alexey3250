@@ -21,7 +21,7 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 |-----------------------|------------------|-------------|-----------|---------------|------------------|--------------|
 | Python                | PyTorch          | Docker      | SQL       | Matplotlib    | RdKit            | Modjourney   |
 |                       | TensorFlow       | Railway     | MongoDB   | Seaborn       | Chemcrow         | Custom GPTs  |
-|                       | Scikit-learn     | Heroku      |           |               |                  |              |
+|                       | Scikit-learn     | Heroku      |           |               |                  | Data Mining  |
 |                       | CatBoost         |             |           |               |                  |              |
 |                       | Numpy            | A/B Testing |           |               |                  |              |
 |                       | Pandas           |             |           |               |                  |              |
