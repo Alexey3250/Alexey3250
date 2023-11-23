@@ -102,8 +102,8 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 - [Google Data Analyst Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/N436HAQBRVZ6), Google
 - [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/linked_in_profile), Microsoft
 - [Harvard CS50: Introduction to Computer Science](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter), Harvard University
-
-## Not related skills & hobbies
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a4c3274d-286a-4612-86cd-2024f9615766" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Not related skills & hobbies
 
 - Seniour Business Analytics experience 
 - Private Pilot Licence
