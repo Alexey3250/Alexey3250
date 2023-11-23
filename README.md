@@ -1,4 +1,4 @@
-# Alexey Efimik - Junior Data Scientist
+# Alexey Efimik - Full stack Junior Data Scientist
 
 ![Banner](https://media.licdn.com/dms/image/C4D16AQHqWLrZo1VHpg/profile-displaybackgroundimage-shrink_200_800/0/1617146149117?e=2147483647&v=beta&t=kbyVuClehGu-ZGcl7C31-zJjP1lf1swKiyuzF3Gc_4U)
 
@@ -11,42 +11,15 @@
 📱 [Telegram](https://t.me/yourtelegramusername)
 
 <h3 align="left">🛠 Language and Tools:</h3>
-<div align="left">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <!-- Jupyter -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-  <!-- PyTorch -->
-  <img src="URL_for_PyTorch_badge" alt="PyTorch" />
-  <!-- TensorFlow -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <!-- SQL -->
-  <img src="URL_for_SQL_badge" alt="SQL" />
-  <!-- MongoDB -->
-  <img src="URL_for_MongoDB_badge" alt="MongoDB" />
-  <!-- Flask -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <!-- FastAPI -->
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <!-- Pandas -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <!-- Scikit-learn -->
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <!-- Numpy -->
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <!-- CatBoost -->
-  <img src="URL_for_CatBoost_badge" alt="CatBoost" />
-  <!-- Modjourney -->
-  <img src="URL_for_Modjourney_badge" alt="Modjourney" />
-  <!-- Custom GPTs -->
-  <img src="URL_for_Custom_GPTs_badge" alt="Custom GPTs" />
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <!-- Matplotlib -->
-  <img src="URL_for_Matplotlib_badge" alt="Matplotlib" />
-  <!-- Seaborn -->
-  <img src="URL_for_Seaborn_badge" alt="Seaborn" />
-</div>
+| Programming Languages | Machine Learning | Deployment      | Databases | Visualization | Chemoinformatics | Others        |
+|-----------------------|------------------|-----------------|-----------|---------------|------------------|---------------|
+| Python                | PyTorch          | Flask           | SQL       | Matplotlib    | RdKit            | Modjourney    |
+|                       | TensorFlow       | FastAPI         | MongoDB   | Seaborn       | Chemcrow         | Custom GPTs   |
+|                       | Scikit-learn     | Docker          |           |               |                  |               |
+|                       | CatBoost         | Railway         |           |               |                  |               |
+|                       | Numpy            | Heroku          |           |               |                  |               |
+|                       | Pandas           |                 |           |               |                  |               |
+
 
 
 <div align="center">
