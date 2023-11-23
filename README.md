@@ -99,23 +99,26 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 
 ## Certifications 📜
 
-### Certifications
-
 - **Google Data Analyst Certificate**  
-  ![Google Data Analyst Certificate](https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)  
-  [View Certificate](https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url)
+  <a href="https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url">
+    <img src="https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" width="100px"  alt="Google Data Analyst Certificate"/>
+  </a>
 
 - **Microsoft Azure Data Scientist Associate**  
-  ![Microsoft Azure Data Scientist Associate](https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)  
-  [View Certificate](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url)
+  <a href="https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url">
+    <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100px" alt="Microsoft Azure Data Scientist Associate"/>
+  </a>
 
-- **Harvard CS50: Introduction to Computer Science**  
-  ![Harvard CS50](https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png)  
-  [View Certificate](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter)
+- **Harvard CS50 + CS50 AI: Professional Certificate in Computer Science for Artificial Intelligence**  
+  <a href="https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter">
+    <img src="https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png" width="100px"  alt="Harvard CS50"/>
+  </a>
 
 - **Data Science Methodology (IBM)**  
-  ![Data Science Methodology](https://images.credly.com/size/680x680/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)  
-  [View Certificate](https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url)
+  <a href="https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url">
+    <img src="https://images.credly.com/size/680x680/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png" width="100px" alt="Data Science Methodology"/>
+  </a>
+
 
 
 ### Not related skills & hobbies
