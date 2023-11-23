@@ -108,7 +108,7 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
     <img src="https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" width="100px"  alt="Google Data Analyst Certificate"/>
   </a>
 
-- **Microsoft Azure Data Scientist Associate**  
+- **Microsoft Azure Certificate**  
   <a href="https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url">
     <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100px" alt="Microsoft Azure Data Scientist Associate"/>
   </a>
