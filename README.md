@@ -95,7 +95,11 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 
 ## Education 🎓
 
-- Bachelor's Degree, Business/Managerial Economics, Faculty of Business and Economics, Mendel University in Brno, 2012 - 2015
+- **Bachelor's Degree, Business/Managerial Economics**  
+  Faculty of Business and Economics, Mendel University in Brno, Czech Republic  
+  2012 - 2015  
+  [View on LinkedIn](https://www.linkedin.com/school/provozne-ekonomicka-fakulta-mendelovy-univerzity-v-brne/)
+
 
 ## Certifications 📜
 
