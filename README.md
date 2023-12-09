@@ -1,4 +1,4 @@
-# Alexey Efimik - Full stack Junior Data Scientist
+# Alexey Efimik - Full stack Data Scientist
 
 I'm a Data Scientist specializing in building and deploying recommendation systems and custom GPT bots. My work focuses on transforming data into actionable insights and innovative solutions.
 
