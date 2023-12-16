@@ -99,24 +99,43 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
   2012 - 2015  
   [View on LinkedIn](https://www.linkedin.com/school/provozne-ekonomicka-fakulta-mendelovy-univerzity-v-brne/)
 
-
 ## Certifications 📜
 
+<table>
+<tr>
+<td>
+
 ### Google Data Analyst Certificate
-![Google Data Analyst Certificate](https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)
-- [View Credential](https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url)
+[![Google Data Analyst Certificate](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url)  
+[View Credential](https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url)
+
+</td>
+<td>
 
 ### Microsoft Azure Certificate
-![Microsoft Azure Data Scientist Associate](https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
-- [View Credential](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url)
+[![Microsoft Azure Data Scientist Associate](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url)  
+[View Credential](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url)
 
-### Harvard CS50 + CS50 AI: Professional Certificate in Computer Science for Artificial Intelligence
-![Harvard CS50](https://i.imgur.com/ZanYQxg.png)
-- [View Credential](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter)
+</td>
+</tr>
+<tr>
+<td>
+
+### Harvard CS50 + CS50 AI
+[![Harvard CS50](https://i.imgur.com/ZanYQxg.png)](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter)  
+[View Credential](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter)
+
+</td>
+<td>
 
 ### Data Science Methodology (IBM)
-![Data Science Methodology](https://images.credly.com/size/680x680/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)
-- [View Credential](https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url)
+[![Data Science Methodology](https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)](https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url)  
+[View Credential](https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url)
+
+</td>
+</tr>
+</table>
+
 
 
 ### Not related skills & hobbies
