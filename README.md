@@ -105,44 +105,44 @@ I'm a Data Scientist specializing in building and deploying recommendation syste
 <tr>
 <td align="center">
 
-### Google Data Analyst Certificate
+#### Google Data Analyst Certificate
 <a href="https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url">
   <img src="https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" width="150" height="150" alt="Google Data Analyst Certificate"/>
 </a>
 <br>
-[View Credential](https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url)
+<a href="https://www.credly.com/badges/b1b99106-841e-4d6a-a35a-4b43666188cf/public_url">View Credential</a>
 
 </td>
 <td align="center">
 
-### Microsoft Azure Certificate
+#### Microsoft Azure Certificate
 <a href="https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url">
   <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" height="150" alt="Microsoft Azure Data Scientist Associate"/>
 </a>
 <br>
-[View Credential](https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url)
+<a href="https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url">View Credential</a>
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-### Harvard CS50 + CS50 AI
+#### Harvard CS50 + CS50 AI
 <a href="https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter">
   <img src="https://i.imgur.com/ZanYQxg.png" width="150" height="150" alt="Harvard CS50"/>
 </a>
 <br>
-[View Credential](https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter)
+<a href="https://certificates.cs50.io/ee8f7ceb-2ba4-4ec6-8275-8a57f92bcbef.pdf?size=letter">View Credential</a>
 
 </td>
 <td align="center">
 
-### Data Science Methodology (IBM)
+#### Data Science Methodology (IBM)
 <a href="https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url">
   <img src="https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png" width="150" height="150" alt="Data Science Methodology"/>
 </a>
 <br>
-[View Credential](https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url)
+<a href="https://www.credly.com/badges/f971140c-4747-47f7-a7b5-99d8ecbf6d7f/public_url">View Credential</a>
 
 </td>
 </tr>
