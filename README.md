@@ -8,11 +8,10 @@ Dubai, UAE.
 
 ## What I work on
 
-- Comparative benchmarking of LLM serving stacks (vLLM, SGLang, llm-d, NVIDIA NIM)
-- Small-model-plus-scaffolding patterns for expert-grade domain Q&A
-- Retrieval evaluation harnesses and citation-grounded RAG patterns
-- Sovereign AI deployment landscape: vendor analysis, DESC / ISR compliance framing
-- Platform engineering and developer experience on OpenShift and Azure
+- Sovereign AI infrastructure and on-premises LLM serving
+- Developer experience and self-service UX on OpenShift / Kubernetes
+- Small-model-plus-scaffolding patterns for domain-bounded chat
+- Retrieval-augmented generation: confidence routing, citation grounding
 
 ---
 
@@ -23,13 +22,13 @@ Hands-on workbench for the deployment parameters that production GenAI clusters 
 **Stack:** Next.js · TypeScript · Tailwind · OpenShift
 **Live:** _coming soon_
 
-### [Clear ATPL](https://clearatpl.netlify.app) — EASA exam prep built around a small-model thesis
-EASA Airline Transport Pilot Licence theoretical-knowledge prep platform — 12,400+ exam questions mapped to the ECQB 2024 syllabus across 13 subjects (Air Law, Meteorology, General Navigation, Performance, Flight Planning, AGK, Human Performance and more). Designed to demonstrate that for expert-grade domain Q&A you do not need a 70B+ model — a small open-weight model with the right scaffolding (retrieval, structured prompting, learning-objective-aware routing, question-similarity clustering across subjects) handles the workload usually thrown at frontier models. Study mode with instant feedback, exam mode with timed sessions, per-subject accuracy tracking, smart study guidance based on inter-subject question similarity.
+### [Clear ATPL](https://clearatpl.netlify.app) — EASA ATPL theoretical-knowledge prep platform
+12,400+ EASA exam questions mapped to the ECQB 2024 syllabus across 13 subjects (Air Law, Meteorology, General Navigation, Performance, Flight Planning, AGK, Human Performance and more). Study mode with instant feedback, exam mode with timed sessions, per-subject accuracy tracking, smart study guidance based on question-similarity clustering across subjects. Built from my own pilot-training work.
 **Stack:** Next.js · TypeScript · Tailwind · MongoDB · Clerk · Netlify
 **Live:** [clearatpl.netlify.app](https://clearatpl.netlify.app)
 
-### [trustworthy-rag-demo](https://github.com/Alexey3250/trustworthy-rag-demo) — confidence-routing RAG pattern
-Three-tier router (gold / amber / gray) that returns grounded answers when retrieval is confident, asks for clarification when ambiguous, and refuses without calling the LLM when out of scope. Jurisdiction-portable; demonstrated on the Service NSW open-data corpus, the same pattern wraps any government open-data source.
+### [trustworthy-rag-demo](https://github.com/Alexey3250/trustworthy-rag-demo) — *small models with good scaffolding beat brute force*
+Demonstration that for domain-bounded chat (government services, FAQs, customer support) you do not need a 70B+ model — a small open-weight model with the right scaffolding handles it as well or better. The scaffolding here is a three-tier confidence router (gold / amber / gray) that returns grounded answers when retrieval is confident, asks for clarification when ambiguous, and refuses without calling the LLM when out of scope. Jurisdiction-portable; demonstrated on the Service NSW open-data corpus, the same pattern wraps any government open-data source.
 **Stack:** Next.js · TypeScript · Tailwind · Python
 **Live:** [trustworthy-rag-demo.vercel.app](https://trustworthy-rag-demo.vercel.app)
 
