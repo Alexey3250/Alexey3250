@@ -45,7 +45,7 @@ Demonstration that for domain-bounded chat (government services, FAQs, customer 
 <table>
 <tr>
 <td align="center">
-<h4>Microsoft Azure Data Scientist Associate</h4>
+<h4>Microsoft Azure Fundamentals</h4>
 <a href="https://www.credly.com/badges/a4c3274d-286a-4612-86cd-2024f9615766/public_url">
   <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" height="150" alt="Microsoft Azure Data Scientist Associate">
 </a>
