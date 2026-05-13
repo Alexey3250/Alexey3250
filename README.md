@@ -6,15 +6,6 @@ Dubai, UAE.
 
 ---
 
-## What I work on
-
-- Sovereign AI infrastructure and on-premises LLM serving
-- Developer experience and self-service UX on OpenShift / Kubernetes
-- Small-model-plus-scaffolding patterns for domain-bounded chat
-- Retrieval-augmented generation: confidence routing, citation grounding
-
----
-
 ## Selected projects
 
 ### [Autoscale Arena](TBD) — interactive UI for OpenShift LLM-serving autoscaling
