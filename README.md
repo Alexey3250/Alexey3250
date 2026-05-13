@@ -1,6 +1,6 @@
 # Alex Efimik
 
-**Pre-Sales Engineer / ML Platform — sovereign AI infrastructure, on-premises LLM serving, GPU orchestration.**
+**Pre-Sales Engineer**
 
 Dubai, UAE.
 
