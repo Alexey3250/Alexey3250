@@ -24,6 +24,7 @@
 ### [Clear ATPL](https://clearatpl.netlify.app) — EASA ATPL theoretical-knowledge prep platform
 12,400+ EASA exam questions mapped to the ECQB 2024 syllabus across 13 subjects (Air Law, Meteorology, General Navigation, Performance, Flight Planning, AGK, Human Performance and more). Study mode with instant feedback, exam mode with timed sessions, per-subject accuracy tracking, smart study guidance based on question-similarity clustering across subjects. Built from my own pilot-training work.
 
+![Clear ATPL](https://i.imgur.com/XUSDug9.png)
 **Stack:** Next.js · TypeScript · Tailwind · MongoDB · Clerk · Netlify
 **Live:** [clearatpl.netlify.app](https://clearatpl.netlify.app)
 
