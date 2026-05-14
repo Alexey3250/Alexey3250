@@ -32,7 +32,7 @@
 
 Demonstration that for domain-bounded chat (government services, FAQs, customer support) you do not need a 70B+ model — a small open-weight model with the right scaffolding handles it as well or better. The scaffolding here is a three-tier confidence router (gold / amber / gray) that returns grounded answers when retrieval is confident, asks for clarification when ambiguous, and refuses without calling the LLM when out of scope. Jurisdiction-portable; demonstrated on the Service NSW open-data corpus, the same pattern wraps any government open-data source.
 
-[trustworthy-rag-demo](https://i.imgur.com/ADl7tdF.png)
+![trustworthy-rag-demo](https://i.imgur.com/ADl7tdF.png)
 
 **Stack:** Next.js · TypeScript · Tailwind · Python · Cerebras API · Ollama local models
 **Live:** [trustworthy-rag-demo.vercel.app](https://trustworthy-rag-demo.vercel.app)
