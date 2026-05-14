@@ -1,7 +1,5 @@
 # Alex Efimik
 
----
- 
 ## Selected projects
 
 ### [Autoscale Arena](https://github.com/Alexey3250/autoscale-arena) — This short demo shows RedHat OpenShift autoscaling a worker deployment under generated load. As load increases, worker CPU rises, the Horizontal Pod Autoscaler adds replicas, and the UI tracks pod state and scale history live.
