@@ -4,8 +4,19 @@
  
 ## Selected projects
 
-### [Autoscale Arena](https://github.com/Alexey3250/autoscale-arena) — interactive UI for OpenShift LLM-serving autoscaling
-Hands-on workbench for the deployment parameters that production GenAI clusters tune manually today: concurrency, batching, KV-cache, tensor parallelism, autoscaling thresholds. Built as a dev-grade interface over OpenShift autoscaling — the kind of cockpit Kubernetes admins running on-prem LLM stacks ask for and rarely get.
+### [Autoscale Arena](https://github.com/Alexey3250/autoscale-arena) — This short demo shows OpenShift autoscaling a worker deployment under generated load. As load increases, worker CPU rises, the Horizontal Pod Autoscaler adds replicas, and the UI tracks pod state and scale history live.
+
+![Autoscale Arena scaling preview](dashboard-scaling-preview.jpg)
+
+[Watch the 35-second demo video](autoscale-arena-demo.mp4)
+
+**What to watch:**
+
+- Load increases through the UI
+- Worker CPU rises
+- HPA scales worker pods up
+- Pod state updates live from the Kubernetes API
+- Scale history changes as the cluster reacts
 
 **Stack:** Next.js · TypeScript · Tailwind · OpenShift
 **Live:** [Link](https://autoscale-arena-frontend-alexeyefimik-dev.apps.rm1.0a51.p1.openshiftapps.com/)
