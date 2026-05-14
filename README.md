@@ -5,14 +5,14 @@
 Dubai, UAE.
 
 ---
-
+ 
 ## Selected projects
 
-### [Autoscale Arena](TBD) — interactive UI for OpenShift LLM-serving autoscaling
+### [Autoscale Arena](https://github.com/Alexey3250/autoscale-arena) — interactive UI for OpenShift LLM-serving autoscaling
 Hands-on workbench for the deployment parameters that production GenAI clusters tune manually today: concurrency, batching, KV-cache, tensor parallelism, autoscaling thresholds. Built as a dev-grade interface over OpenShift autoscaling — the kind of cockpit Kubernetes admins running on-prem LLM stacks ask for and rarely get.
 
 **Stack:** Next.js · TypeScript · Tailwind · OpenShift
-**Live:** _coming soon_
+**Live:** [Link](https://autoscale-arena-frontend-alexeyefimik-dev.apps.rm1.0a51.p1.openshiftapps.com/)
 
 ### [Clear ATPL](https://clearatpl.netlify.app) — EASA ATPL theoretical-knowledge prep platform
 12,400+ EASA exam questions mapped to the ECQB 2024 syllabus across 13 subjects (Air Law, Meteorology, General Navigation, Performance, Flight Planning, AGK, Human Performance and more). Study mode with instant feedback, exam mode with timed sessions, per-subject accuracy tracking, smart study guidance based on question-similarity clustering across subjects. Built from my own pilot-training work.
