@@ -1,9 +1,5 @@
 # Alex Efimik
 
-**Pre-Sales Engineer**
-
-Dubai, UAE.
-
 ---
  
 ## Selected projects
