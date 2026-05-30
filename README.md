@@ -2,6 +2,23 @@
 
 ## Selected projects
 
+### [MIRA Group Operations Intelligence Platform](https://github.com/Alexey3250/mira-group-business-analyst-portfolio) - Business Analyst portfolio for a Dubai operations role
+
+Working Next.js prototype for a MIRA Group LLC Business Analyst application. It connects a real estate-first group overview with a dedicated commodities desk for fertilizers, agricultural bulk products, and industrial materials, plus CRM funnel reporting, live market-risk signals, and a CRM-to-SAP deal margin analyzer.
+
+![MIRA Group operations intelligence platform](mira-group-portfolio.png)
+
+**What to watch:**
+
+- Real estate portfolio KPIs, project progress, CRM funnel, and system status in one executive view
+- Commodities desk with live FX and market-risk signals from public APIs
+- Deal Margin Analyzer that enriches a mock CRM trade and produces a simulated SAP ERP payload
+- Static Chromium-rendered PDF export for stakeholder sharing
+
+**Stack:** Next.js · TypeScript · Tailwind · Vercel · Public APIs  
+**Live:** [mira-group-business-analyst-portfol.vercel.app](https://mira-group-business-analyst-portfol.vercel.app)  
+**PDF:** [portfolio report](https://mira-group-business-analyst-portfol.vercel.app/mira-group-business-analyst-portfolio.pdf)
+
 ### [Autoscale Arena](https://github.com/Alexey3250/autoscale-arena) — This short demo shows RedHat OpenShift autoscaling a worker deployment under generated load. As load increases, worker CPU rises, the Horizontal Pod Autoscaler adds replicas, and the UI tracks pod state and scale history live.
 
 ![Autoscale Arena scaling preview](dashboard-scaling.png)
