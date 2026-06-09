@@ -36,12 +36,12 @@ Working Next.js prototype for a MIRA Group LLC Business Analyst application. It 
 **Stack:** Next.js · TypeScript · Tailwind · OpenShift
 **Live:** [Link](https://autoscale-arena-frontend-alexeyefimik-dev.apps.rm1.0a51.p1.openshiftapps.com/)
 
-### [Clear ATPL](https://clearatpl.netlify.app) — EASA ATPL theoretical-knowledge prep platform
-12,400+ EASA exam questions mapped to the ECQB 2024 syllabus across 13 subjects (Air Law, Meteorology, General Navigation, Performance, Flight Planning, AGK, Human Performance and more). Study mode with instant feedback, exam mode with timed sessions, per-subject accuracy tracking, smart study guidance based on question-similarity clustering across subjects. Built from my own pilot-training work.
+### [Cockpit Ready](https://cockpitready.com) — cadet aptitude, Wizz Air interview, and EASA ATPL prep workspace
+Pilot-selection learning platform for aspiring pilots, combining an EASA ATPL question bank, Wizz Air cadet preparation track, timed cognitive games, interview/test preparation, progress tracking, and readiness-focused study flows. Built from my own pilot-training work and now live on a dedicated domain.
 
-![Clear ATPL](https://i.imgur.com/XUSDug9.png)
-**Stack:** Next.js · TypeScript · Tailwind · MongoDB · Clerk · Netlify
-**Live:** [clearatpl.netlify.app](https://clearatpl.netlify.app)
+![Cockpit Ready](cockpit-ready.png)
+**Stack:** Next.js · TypeScript · Tailwind · MongoDB · Clerk · custom domain
+**Live:** [cockpitready.com](https://cockpitready.com)
 
 ### [trustworthy-rag-demo](https://github.com/Alexey3250/trustworthy-rag-demo) — *small models with good scaffolding beat brute force*
 
