@@ -2,22 +2,12 @@
 
 ## Selected projects
 
-### [MIRA Group Operations Intelligence Platform](https://github.com/Alexey3250/mira-group-business-analyst-portfolio) - Business Analyst portfolio for a Dubai operations role
+### [Cockpit Ready](https://cockpitready.com) — cadet aptitude, Wizz Air interview, and EASA ATPL prep workspace
+Pilot-selection learning platform for aspiring pilots, combining an EASA ATPL question bank, Wizz Air cadet preparation track, timed cognitive games, interview/test preparation, progress tracking, and readiness-focused study flows. Built from my own pilot-training work and now live on a dedicated domain.
 
-Working Next.js prototype for a MIRA Group LLC Business Analyst application. It connects a real estate-first group overview with a dedicated commodities desk for fertilizers, agricultural bulk products, and industrial materials, plus CRM funnel reporting, live market-risk signals, and a CRM-to-SAP deal margin analyzer.
-
-![MIRA Group operations intelligence platform](mira-group-portfolio.png)
-
-**What to watch:**
-
-- Real estate portfolio KPIs, project progress, CRM funnel, and system status in one executive view
-- Commodities desk with live FX and market-risk signals from public APIs
-- Deal Margin Analyzer that enriches a mock CRM trade and produces a simulated SAP ERP payload
-- Static Chromium-rendered PDF export for stakeholder sharing
-
-**Stack:** Next.js · TypeScript · Tailwind · Vercel · Public APIs  
-**Live:** [mira-group-business-analyst-portfol.vercel.app](https://mira-group-business-analyst-portfol.vercel.app)  
-**PDF:** [portfolio report](https://mira-group-business-analyst-portfol.vercel.app/mira-group-business-analyst-portfolio.pdf)
+![Cockpit Ready](cockpit-ready.png)
+**Stack:** Next.js · TypeScript · Tailwind · MongoDB · Clerk · custom domain
+**Live:** [cockpitready.com](https://cockpitready.com)
 
 ### [Autoscale Arena](https://github.com/Alexey3250/autoscale-arena) — This short demo shows OpenShift autoscaling a worker deployment under generated load. As load increases, worker CPU rises, the Horizontal Pod Autoscaler adds replicas, and the UI tracks pod state and scale history live.
 
@@ -36,13 +26,6 @@ Working Next.js prototype for a MIRA Group LLC Business Analyst application. It 
 **Stack:** Next.js · TypeScript · Tailwind · OpenShift
 **Live:** [Link](https://autoscale-arena-frontend-alexeyefimik-dev.apps.rm1.0a51.p1.openshiftapps.com/)
 
-### [Cockpit Ready](https://cockpitready.com) — cadet aptitude, Wizz Air interview, and EASA ATPL prep workspace
-Pilot-selection learning platform for aspiring pilots, combining an EASA ATPL question bank, Wizz Air cadet preparation track, timed cognitive games, interview/test preparation, progress tracking, and readiness-focused study flows. Built from my own pilot-training work and now live on a dedicated domain.
-
-![Cockpit Ready](cockpit-ready.png)
-**Stack:** Next.js · TypeScript · Tailwind · MongoDB · Clerk · custom domain
-**Live:** [cockpitready.com](https://cockpitready.com)
-
 ### [trustworthy-rag-demo](https://github.com/Alexey3250/trustworthy-rag-demo) — *small models with good scaffolding beat brute force*
 
 Demonstration that for domain-bounded chat (government services, FAQs, customer support) you do not need a 70B+ model — a small open-weight model with the right scaffolding handles it as well or better. The scaffolding here is a three-tier confidence router (gold / amber / gray) that returns grounded answers when retrieval is confident, asks for clarification when ambiguous, and refuses without calling the LLM when out of scope. Jurisdiction-portable; demonstrated on the Service NSW open-data corpus, the same pattern wraps any government open-data source.
@@ -51,6 +34,23 @@ Demonstration that for domain-bounded chat (government services, FAQs, customer 
 
 **Stack:** Next.js · TypeScript · Tailwind · Python · Cerebras API · Ollama local models
 **Live:** [trustworthy-rag-demo.vercel.app](https://trustworthy-rag-demo.vercel.app)
+
+### [MIRA Group Operations Intelligence Platform](https://github.com/Alexey3250/mira-group-business-analyst-portfolio) - Business Analyst portfolio for a Dubai operations role
+
+Working Next.js prototype for a MIRA Group LLC Business Analyst application. It connects a real estate-first group overview with a dedicated commodities desk for fertilizers, agricultural bulk products, and industrial materials, plus CRM funnel reporting, live market-risk signals, and a CRM-to-SAP deal margin analyzer.
+
+![MIRA Group operations intelligence platform](mira-group-portfolio.png)
+
+**What to watch:**
+
+- Real estate portfolio KPIs, project progress, CRM funnel, and system status in one executive view
+- Commodities desk with live FX and market-risk signals from public APIs
+- Deal Margin Analyzer that enriches a mock CRM trade and produces a simulated SAP ERP payload
+- Static Chromium-rendered PDF export for stakeholder sharing
+
+**Stack:** Next.js · TypeScript · Tailwind · Vercel · Public APIs  
+**Live:** [mira-group-business-analyst-portfol.vercel.app](https://mira-group-business-analyst-portfol.vercel.app)  
+**PDF:** [portfolio report](https://mira-group-business-analyst-portfol.vercel.app/mira-group-business-analyst-portfolio.pdf)
 
 ---
 
