@@ -1,5 +1,25 @@
 # Alex Efimik
 
+## Web3
+
+*A full, "proper" Web3 product is still in progress. These are the public, interactive explainer builds leading up to it — accurate and hands-on, not hyped.*
+
+### [Chain, Explained](https://github.com/Alexey3250/chain-explained) — a slide-by-slide walkthrough of how Bitcoin actually works, for visual learners
+
+Start from a single hash and zoom out to a global network no one owns. Every SHA-256 hash, secp256k1 keypair and signature, and mined block is computed **for real, in the browser** — and several slides read live data straight from the Bitcoin network. Five acts, fifteen slides; keyboard- and swipe-navigable, deep-linkable via URL hash. Nothing is faked.
+
+![Transactions stream into the mempool, two miners race for the next block, nodes validate, and the winner's block links onto the chain.](https://raw.githubusercontent.com/Alexey3250/chain-explained/main/docs/media/hero.gif)
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind v4
+**Live:** [chain-explained.vercel.app](https://chain-explained.vercel.app)
+
+#### Also in the workshop
+
+- **[the machines](https://github.com/Alexey3250/chain-machines)** — living pixel diagrams of blockchain networks, one honest little simulation per chain (blocks packed, validators vote, fees burn). Ethereum proof-of-stake is a live sim (staking → PBS builder → blobs → attest → seal + burn); Bitcoin, Solana, and Lightning are still in the shop. [Live](https://chain-machines.vercel.app).
+- **[kilobit](https://github.com/Alexey3250/kilobit)** — a tiny, dependency-free TypeScript toolkit for crisp pixel-art animation on a 2D canvas (supersampled surface, throttled rAF loop, pointer hit-testing, deterministic RNG). It's the engine that renders "the machines" pixel by pixel.
+
+---
+
 ## Selected projects
 
 ### [Cockpit Ready](https://cockpitready.com) — cadet aptitude, Wizz Air interview, and EASA ATPL prep workspace
